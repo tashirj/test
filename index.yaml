@@ -2,11 +2,11 @@ apiVersion: v1
 entries:
   my-app:
   - apiVersion: v1
-    created: 2018-10-25T14:28:01.40008676+05:30
+    created: 2018-10-25T14:34:10.468918629+05:30
     description: A Helm chart for Kubernetes
-    digest: b39c85e7887e64b57a22fadb0ba73704b61a674d08ed25ffbb3d5e7cecc61a1e
+    digest: ba62e1365daf1ab8f9b58abf1f3320869b9304cdc1280f884176641f1e55f1ee
     name: my-app
     urls:
-    - https://github.com/tashirj/test/my-app-0.1.1.tgz
-    version: 0.1.1
-generated: 2018-10-25T14:28:01.399354886+05:30
+    - https://github.com/tashirj/test/my-app-0.1.2.tgz
+    version: 0.1.2
+generated: 2018-10-25T14:34:10.468145541+05:30
